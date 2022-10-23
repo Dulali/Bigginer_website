@@ -1,0 +1,47 @@
+
+--- My Journey—--
+I am a person who is positive about every aspect of life. There are many things I like to do, to see, and to experience. I like to think, I like to dream; I like to talk, I like to listen. Even  I like to do research when I cannot sleep in the middle of the night. Currently I’m a final year engineering student at University of Liberal Arts Bangladesh.
+
+Skills and Experiences
+
+fatamadulali@gmail.com
++8801715094727
+FDulali
+
+html
+<html>
+  <head>
+    <title>wesite design</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <>
+    <div class="container">
+      <div class="navbar">
+        <img src="logo.png" class="logo" />
+        <nav>
+          <ul>
+            <li><a href="">Home</a></li>
+            <li><a href="">About</a></li>
+            <li><a href="">Skills</a></li>
+            <li><a href="">Contact</a></li>
+          </ul>
+        </nav>
+        <img src="search.png" class="search"
+      </div>
+    </div>
+    <div class="content">
+      <a href=""class="btn">Hi, I'm Fatema,</a>
+      <h1>My <br>Journey</h1>
+      <p> I am a person who is positive about every aspect of life.</p>
+      <img src="png_20220924_020628_0000.png" class="feature-img">
+      <div class="social link">
+        <a href="">TWITTER</a>
+        <a href="">EMAIL</a>
+        <a href="">INSTAGRAM</a>
+      </div>
+    </div>
+  </body>
+</html>
+
+
+
